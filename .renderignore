@@ -1,0 +1,11 @@
+node_modules
+.git
+src/
+public/
+eslint.config.js
+vite.config.js
+starting-code/
+*.log
+.DS_Store
+.vscode/
+.idea/
